@@ -1,3 +1,14 @@
+.first-div{
+    background-color: darkolivegreen;
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding: 10px;
+    margin: 2%;
+}
+   
+
+
 h1{
     font-size: 45px;
 }
@@ -17,7 +28,7 @@ h1{
     
 }
 
-section{
+.section-style{
     display: flex;
     margin: 20px;
     
@@ -37,4 +48,38 @@ section{
 .para-style{
     text-align: center;
     color: chocolate;
+}
+.column {
+    box-shadow: 10px 10px 30px darkcyan;
+    border-radius: 15px;
+    padding: 10px;
+   width: 20%;
+   margin-left: 5%;
+   margin-right: 5%;
+
+
+}
+.image-deco{
+    width: 250px;
+    height: 250px;
+}
+.last-sec{
+    padding: 40px;
+    text-align: center;
+    font-weight: 500;
+    margin: 4%;
+    box-shadow: 10px 10px 20px gainsboro ;
+    color: black;
+}
+footer h2{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    background-color: darkorchid;
+    padding: 30px;
+    margin: 2%;
+
 }
